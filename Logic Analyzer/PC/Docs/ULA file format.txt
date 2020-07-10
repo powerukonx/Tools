@@ -1,0 +1,12 @@
+Format ULA (Ukonx Logic Analyzer)
+---------------------------------
+
+0x00000000 : 	260 	: Capture title
+0x00000104 :   	  1 	: Numbers of probes
+0x00000105 : 	  4	: Probes State
+0x00000109 :  Probesx4 	: Traces colors
+0x0xxxxxxx : Probesx260 : Traces names
+0x0xxxxxxx :      1	: Current trigger
+0x0xxxxxxx :      1     : Trigger type
+0x0xxxxxxx :      4     : Capture size
+0x0xxxxxxx :      n	: Capture data 

@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1422009032 source:c:\developpement\logic_analyzer\main.cpp
+	<stdio.h>
+	<windows.h>
+	<commctrl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"resource.h"
+
+1422008489 c:\developpement\logic_analyzer\resource.h
+
+1422008489 source:c:\developpement\logic_analyzer\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1422009376 source:c:\users\exo047\desktop\logic analyzer v1.0\pc\main.cpp
+	<stdio.h>
+	<windows.h>
+	<commctrl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"resource.h"
+
+1422008490 c:\users\exo047\desktop\logic analyzer v1.0\pc\resource.h
+
+1422008490 source:c:\users\exo047\desktop\logic analyzer v1.0\pc\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1521109813 source:c:\_perso_\_electronique_\logic analyzer v1.0\pc\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1521110152 c:\_perso_\_electronique_\logic analyzer v1.0\pc\resource.h
+
+1521121300 source:c:\_perso_\_electronique_\logic analyzer v1.0\pc\main.cpp
+	<stdio.h>
+	<windows.h>
+	<commctrl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"resource.h"
+
+1521113413 source:d:\github\tools\logic analyzer\pc\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1521113752 d:\github\tools\logic analyzer\pc\resource.h
+
